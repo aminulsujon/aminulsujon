@@ -4,10 +4,7 @@
 - 🌱 I’m currently learning mongoDB
 - 💞️ I’m looking to collaborate on MERN development SDLC
 - 👍 I’m experienced in PHP 💖 Laravel 💖 CakePHP
-- 👍 I have skill badge from linked in 
--    ✔Front-End Development 
--    ✔Search Engine Optimization (SEO) 
--    ✔Cascading Style Sheets (CSS)
+- 👍 I have skill badge from linked in ✔Front-End Development ✔SEO ✔CSS
 - 📫 You can reach me at aminulsujon.com
 
 <!---
