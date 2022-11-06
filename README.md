@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @aminulsujon
-- 🏆 I’m a certified Scrum Master
-- 👀 I’m interested in programming
+- 👋 Hi, I’m Aminul Sujon, certified Scrum Master
+- 🧸 Working as a Senior Developer in Media Industry
+- ✨ Now stacks using  Gridsome, GraphQL, Typescript, MongoDB, Git Actions 
+- 👍 I’m experienced in PHP 💖 Laravel 💖 CakePHP 
+- 🌱 My skills are Scrum JavaScript HTML CSS VueJS JQuery Ajax Gridsome Python PHP Laravel CakePHP MongoDB MySQL Rest API GraphQL Git ClickUp SEO
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning mongoDB
-- 💞️ I’m looking to collaborate on MERN development SDLC
-- 👍 I’m experienced in PHP 💖 Laravel 💖 CakePHP
+- 💞️ I’m looking to collaborate with learner and teacher
 - 👍 I have skill badge from linked in ✔Front-End Development ✔SEO ✔CSS
 - 📫 You can reach me at aminulsujon.com
 
