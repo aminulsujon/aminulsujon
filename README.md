@@ -2,12 +2,16 @@
 - 🧸 Working as a Senior Developer in Media Industry
 - ✨ Now stacks using  Gridsome, GraphQL, Typescript, MongoDB, Git Actions 
 - 👍 I’m experienced in PHP 💖 Laravel 💖 CakePHP 
-- 🌱 My skills are Scrum HTML CSS VueJS JQuery Ajax Gridsome 
-     Python R PHP JavaScript MongoDB MySQL Rest API GraphQL Git ClickUp SEO
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning mongoDB
+- 🌱 My skills are Scrum, HTML, CSS, VueJS, JQuery, Ajax, Gridsome, Stylus
+- 🌱 - PHP, TypeScript, Python, R, C++
+- 🌱 - MongoDB, MySQL
+- 🌱 - RestAPI, GraphQL
+- 🌱 - Altair, Postman, Robo 3T, 
+- 🌱 - SEO, Adsense, Admanager, Selenium
+- 👀 I’m interested in Learning and Programming
+- 🌱 I’m currently learning Project Management Office
 - 💞️ I’m looking to collaborate with learner and teacher
-- 👍 I have skill badge from linked in ✔Front-End Development ✔SEO ✔CSS
+- 👍 I have skill badge from linkedin ✔Front-End Development ✔SEO ✔CSS
 - 📫 You can reach me at aminulsujon.com
 
 <!---
