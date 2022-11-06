@@ -7,11 +7,11 @@
 - 🌱 - MongoDB, MySQL
 - 🌱 - RestAPI, GraphQL
 - 🌱 - Altair, Postman, Robo 3T, 
-- 🌱 - SEO, Adsense, Admanager, Selenium
+- 🌱 - SEO, Adsense, Admanager, Selenium, Tableau
 - 👀 I’m interested in Learning and Programming
-- 🌱 I’m currently learning Project Management Office
-- 💞️ I’m looking to collaborate with learner and teacher
+- 🌱 I’m currently learning Big Data Analysis
 - 👍 I have skill badge from linkedin ✔Front-End Development ✔SEO ✔CSS
+- 💞️ I’m looking to collaborate with learner and teacher
 - 📫 You can reach me at aminulsujon.com
 
 <!---
