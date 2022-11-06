@@ -2,7 +2,8 @@
 - 🧸 Working as a Senior Developer in Media Industry
 - ✨ Now stacks using  Gridsome, GraphQL, Typescript, MongoDB, Git Actions 
 - 👍 I’m experienced in PHP 💖 Laravel 💖 CakePHP 
-- 🌱 My skills are Scrum JavaScript HTML CSS VueJS JQuery Ajax Gridsome Python PHP Laravel CakePHP MongoDB MySQL Rest API GraphQL Git ClickUp SEO
+- 🌱 My skills are Scrum HTML CSS VueJS JQuery Ajax Gridsome 
+     Python R PHP JavaScript MongoDB MySQL Rest API GraphQL Git ClickUp SEO
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning mongoDB
 - 💞️ I’m looking to collaborate with learner and teacher
