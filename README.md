@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aminul Sujon, certified Scrum Master
 - 🧸 Working as a Senior Developer in Media Industry
-- ✨ Now stacks using  Gridsome, GraphQL, Typescript, MongoDB, Git Actions 
+- ✨ Now stacks using  NextJS, Gridsome, GraphQL, Typescript, MongoDB, Git Actions 
 - 👍 I’m experienced in PHP 💖 Laravel 💖 CakePHP 
 - 🌱 My skills are Scrum, HTML, CSS, VueJS, JQuery, Ajax, Gridsome, Stylus
 - 🌱 - PHP, TypeScript, Python, R, C++
