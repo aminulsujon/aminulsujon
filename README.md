@@ -6,7 +6,7 @@
 - 🌱 - PHP, TypeScript, Python, R, C++
 - 🌱 - MongoDB, MySQL
 - 🌱 - RestAPI, GraphQL
-- 🌱 - Altair, Postman, Robo 3T, 
+- 🌱 - Altair, Postman, Robo 3T, PhoMyadmin
 - 🌱 - SEO, Adsense, Admanager, Selenium, Tableau
 - 👀 I’m interested in Learning and Programming
 - 🌱 I’m currently learning Big Data Analysis
