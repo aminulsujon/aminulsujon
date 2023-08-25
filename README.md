@@ -12,7 +12,7 @@ SKILLS OVERVIEW
 
 EXPERIENCE
 ------------------------------------------------------------------------------------------------------------------------------
--Tech Technique Limited, Full Stack Developer, [Jan 2023 - Present]<br>
+-Technology Automations, Full Stack Developer, [Jan 2023 - Present]<br>
 -Somoy Media Limited, Senior Web Developer, [Jul 2018 - Dec 2022]<br>
 -Somoy Media Limited,  Web Developer, [Aug 2014 - Jul 2018]<br>
 -Ipsita Software Limited, Junior Programmer [Jan 2012 - Jul 2014]<br>
