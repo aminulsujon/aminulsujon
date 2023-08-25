@@ -1,20 +1,31 @@
-- 👋 Hi, I’m Aminul Sujon, certified Scrum Master
-- 🧸 Working as a Senior Developer in Media Industry
-- ✨ Now stacks using  NextJS, Gridsome, GraphQL, Typescript, MongoDB, Git Actions 
-- 👍 I’m experienced in PHP 💖 Laravel 💖 CakePHP 
-- 🌱 My skills are Scrum, HTML, CSS, VueJS, JQuery, Ajax, Gridsome, Stylus
-- 🌱 - PHP, TypeScript, Python, R, C++
-- 🌱 - MongoDB, MySQL
-- 🌱 - RestAPI, GraphQL
-- 🌱 - Altair, Postman, Robo 3T, PhoMyadmin
-- 🌱 - SEO, Adsense, Admanager, Selenium, Tableau
-- 👀 I’m interested in Learning and Programming
-- 🌱 I’m currently learning Big Data Analysis
-- 👍 I have skill badge from linkedin ✔Front-End Development ✔SEO ✔CSS
-- 💞️ I’m looking to collaborate with learner and teacher
-- 📫 You can reach me at aminulsujon.com
+I am working as a professional web developer over 10 years of expertise in various positions
+in the Software Development industry with delivery processes for the cloud, desktop, mobile platforms.
 
-<!---
-aminulsujon/aminulsujon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+SKILLS OVERVIEW
+------------------------------------------------------------------------------------------------------------------------------
+Programming Languages: PHP, JavaScript, Python, C++, Java.
+Software Development: Laravel, GraphQL, Django, CakePHP, VueJs, Gridsome, ExpressJs, Ajax
+Web Design: Stylus, CSS, Tailwind, Bootstrap
+Data Science: Web Scraping with Python, Data Visualization with Tableau, 
+Database: MySQL, PostgreSQL, MongoDB, Redis.
+Tools: Composer, Git, Clickup, Postman, Selenium, Docker
+
+EXPERIENCE
+------------------------------------------------------------------------------------------------------------------------------
+Tech Technique Limited, Full Stack Developer, [Jan 2023 - Present]
+Somoy Media Limited, Senior Web Developer, [Jul 2018 - Dec 2022]
+Somoy Media Limited,  Web Developer, [Aug 2014 - Jul 2018]
+Ipsita Software Limited, Junior Programmer [Jan 2012 - Jul 2014]
+
+EDUCATION
+------------------------------------------------------------------------------------------------------------------------------
+M.Sc. in Applied Physics, 2010, Islamic University, Kushtia.
+B.Sc. in Applied Physics, 2009, Islamic University, Kushtia.
+
+TRAINING
+------------------------------------------------------------------------------------------------------------------------------
+Certified Scrum Master, Scrum Alliance, 2022
+Big Data & Data Analysis, BITM, 2022
+Software Testing & Automation, Peoples N Tech, 2021
+Internet of Things (IOT), UY Systems Ltd, 2018
+
