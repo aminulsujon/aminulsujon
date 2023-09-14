@@ -7,7 +7,7 @@ SKILLS OVERVIEW
 -Software Development: Laravel, CakePHP, Django, GraphQL, VueJs, Gridsome, ExpressJs, Ajax<br>
 -Web Design: Stylus, CSS, Tailwind, Bootstrap<br>
 -Data Science: Web Scraping with Python, Data Visualization with Tableau<br>
--Database: MySQL, PostgreSQL, MongoDB<br>
+-Databases: MySQL, PostgreSQL, MongoDB<br>
 -Tools: Composer, Git, Clickup, Postman, Selenium, Docker, Redis
 
 EXPERIENCE
