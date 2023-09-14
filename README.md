@@ -4,11 +4,11 @@ in the Software Development industry with delivery processes for the cloud, desk
 SKILLS OVERVIEW
 ------------------------------------------------------------------------------------------------------------------------------
 -Programming Languages: PHP, JavaScript, Python, C++, Java<br>
--Software Development: Laravel, GraphQL, Django, CakePHP, VueJs, Gridsome, ExpressJs, Ajax<br>
+-Software Development: Laravel, CakePHP, Django, GraphQL, VueJs, Gridsome, ExpressJs, Ajax<br>
 -Web Design: Stylus, CSS, Tailwind, Bootstrap<br>
 -Data Science: Web Scraping with Python, Data Visualization with Tableau<br>
 -Database: MySQL, PostgreSQL, MongoDB<br>
--Tools: Composer, Git, Clickup, Postman, Selenium, Docker,Redis
+-Tools: Composer, Git, Clickup, Postman, Selenium, Docker, Redis
 
 EXPERIENCE
 ------------------------------------------------------------------------------------------------------------------------------
