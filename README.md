@@ -12,9 +12,8 @@ SKILLS OVERVIEW
 
 EXPERIENCE
 ------------------------------------------------------------------------------------------------------------------------------
--Technology Automations, Full Stack Developer, [Jan 2023 - Present]<br>
--Somoy Media Limited, Senior Web Developer, [Jul 2018 - Dec 2022]<br>
--Somoy Media Limited,  Web Developer, [Aug 2014 - Jul 2018]<br>
+-Self Development, [Jan 2023 - Present]<br>
+-Somoy Media Limited, Senior Web Developer, [Aug 2014 - Dec 2022]<br>
 -Ipsita Software Limited, Junior Programmer [Jan 2012 - Jul 2014]<br>
 
 EDUCATION
@@ -22,7 +21,7 @@ EDUCATION
 -M.Sc. in Applied Physics, 2010, Islamic University, Kushtia.<br>
 -B.Sc. in Applied Physics, 2009, Islamic University, Kushtia.<br>
 
-TRAINING
+TRAINING & CERTIFICATION
 ------------------------------------------------------------------------------------------------------------------------------
 -Certified Scrum Master, Scrum Alliance, 2022<br>
 -Big Data & Data Analysis, BITM, 2022<br>
