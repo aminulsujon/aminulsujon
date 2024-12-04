@@ -3,7 +3,7 @@ in the Software Development industry with delivery processes for the cloud, desk
 
 SKILLS OVERVIEW
 ------------------------------------------------------------------------------------------------------------------------------
--Programming Languages: PHP, JavaScript, TypeScript, C++<br>
+-Programming Languages: PHP, JavaScript, TypeScript, C++, `#RRGGBB`	Python<br>
 -Software Development: Laravel, Cakephp, NextJs, VueJs, Gridsome, ExpressJs<br>
 -Web Design: Stylus, CSS, Tailwind, Bootstrap<br>
 -Service Analysis: Google Platforms, SEO Analysis Tools<br>
