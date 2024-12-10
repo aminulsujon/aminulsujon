@@ -4,7 +4,7 @@ SKILLS OVERVIEW
 ------------------------------------------------------------------------------------------------------------------------------
 -**Programming Languages:** PHP, JavaScript, TypeScript, C++, Python<br>
 -**Software Development:** Laravel, Cakephp, NextJs, VueJs, Gridsome, ExpressJs<br>
--**Web Design:** Stylus, CSS, Tailwind, Bootstrap<br>
+-**Web Design:** Stylus, CSS, Tailwind, Bootstrap, Figma<br>
 -**Service Analysis:** Google Platforms, SEO Analysis, PageSpeed Optimization<br>
 -**Databases:** MySQL, PostgreSQL, MongoDB<br>
 -**Tools:** Scrum, Composer, Git, Clickup, Postman, Selenium, Docker, Redis
