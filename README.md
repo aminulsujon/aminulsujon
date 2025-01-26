@@ -1,4 +1,8 @@
-I am a seasoned professional web developer with over 10 years of experience in diverse roles within the Software Development industry. My expertise spans designing and delivering solutions for cloud, desktop, and mobile platforms, ensuring robust and efficient development processes tailored to various platforms.
+Experienced Developer with over 10 years in software development, specializing as a Scrum
+Master, SEO expert, and Full Stack Developer. Proven track record in guiding agile teams to
+successfully create scalable and user-friendly solutions that meet project goals. Known for
+encouraging creativity, improving processes, and delivering high-quality results that support
+business objectives.
 
 SKILLS OVERVIEW
 ------------------------------------------------------------------------------------------------------------------------------
