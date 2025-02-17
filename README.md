@@ -1,23 +1,13 @@
-Experienced Developer with over 10 years in software development, specializing as a Scrum
-Master, SEO expert, and Full Stack Developer. Proven track record in guiding agile teams to
-successfully create scalable and user-friendly solutions that meet project goals. Known for
-encouraging creativity, improving processes, and delivering high-quality results that support
-business objectives.
+Experienced Developer with over 10 years in software development, specializing as a Scrum Master, SEO expert, and Full Stack Developer. Proven track record in guiding agile teams to successfully create scalable and user-friendly solutions that meet project goals. Known for encouraging creativity, improving processes, and delivering high-quality results that support business objectives
 
 SKILLS OVERVIEW
 ------------------------------------------------------------------------------------------------------------------------------
 -**Programming Languages:** PHP, JavaScript, TypeScript, C++, Python<br>
--**Software Development:** Laravel, Cakephp, NextJs, VueJs, Gridsome, ExpressJs<br>
+-**Software Development:** Laravel, Cakephp, ReactJs, NextJs, VueJs, Gridsome, ExpressJs<br>
 -**Web Design:** Stylus, CSS, Tailwind, Bootstrap, Figma<br>
 -**Service Analysis:** Google Platforms, SEO Analysis, PageSpeed Optimization<br>
 -**Databases:** MySQL, PostgreSQL, MongoDB<br>
 -**Tools:** Scrum, Composer, Git, Clickup, Postman, Selenium, Docker, Redis
-
-EXPERIENCE
-------------------------------------------------------------------------------------------------------------------------------
--Self Development, [Jan 2023 - Present]<br>
--Somoy Media Limited, Senior Web Developer, [Aug 2014 - Dec 2022]<br>
--Ipsita Software Limited, Junior Programmer [Jan 2012 - Jul 2014]<br>
 
 EDUCATION
 ------------------------------------------------------------------------------------------------------------------------------
