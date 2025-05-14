@@ -1,4 +1,4 @@
-Project Manager with over 12 years in software development, specializing as a Scrum Master, SEO & SMM Analyst, and Full Stack Developer. Proven track record in guiding agile teams to successfully create scalable and user-friendly solutions that meet project goals. Known for encouraging creativity, improving processes, and delivering high-quality results that support business objectives
+Experienced Developer with over 10 years in software development, specializing as a Scrum Master, SEO expert, and Full Stack Developer. Proven track record in guiding agile teams to successfully create scalable and user-friendly solutions that meet project goals. Known for encouraging creativity, improving processes, and delivering high-quality results that support business objectives
 
 SKILLS OVERVIEW
 ------------------------------------------------------------------------------------------------------------------------------
