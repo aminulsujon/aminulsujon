@@ -1,11 +1,11 @@
-Experienced Developer with over 10 years in software development, specializing as a Scrum Master, SEO expert, and Full Stack Developer. Proven track record in guiding agile teams to successfully create scalable and user-friendly solutions that meet project goals. Known for encouraging creativity, improving processes, and delivering high-quality results that support business objectives
+Experienced Developer with over 10 years in software development, specializing as a Full Stack Developer. Proven track record in guiding agile teams to successfully create scalable and user-friendly solutions that meet project goals. Known for encouraging creativity, improving processes, and delivering high-quality results that support business objectives
 
 SKILLS OVERVIEW
 ------------------------------------------------------------------------------------------------------------------------------
--**Programming Languages:** PHP, JavaScript, TypeScript, C++, Python<br>
--**Software Development:** Laravel, Cakephp, ReactJs, NextJs, VueJs, Gridsome, ExpressJs<br>
+-**Programming Languages:** Python, PHP, JavaScript, TypeScript, C++<br>
+-**Software Development:** Django, Laravel, Cakephp, ReactJs, NextJs, VueJs, Gridsome, ExpressJs, PageSpeed Optimization<br>
 -**Web Design:** HTML, Stylus, CSS, Tailwind, Bootstrap, Figma<br>
--**Service Analysis:** Google Platforms, SEO Analysis, PageSpeed Optimization<br>
+-**Service Analysis:** Big Data Analysis, Google Platforms, SEO Analysis<br>
 -**Databases:** MySQL, PostgreSQL, MongoDB<br>
 -**Tools:** Scrum, Composer, Git, Clickup, Postman, Selenium, Docker, Redis
 
