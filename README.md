@@ -1,5 +1,5 @@
 # MD. AMINUL ISLAM
-**Business Intelligence & Data Analytics Specialist | Business Analyst**
+**Digital Business Solution | Software Engineering**
 Dhaka, Bangladesh | Phone: +8801716330532 | Email: aminul532sujon@gmail.com
 LinkedIn: linkedin.com/in/aminulsujon | GitHub: github.com/aminulsujon
 
