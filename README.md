@@ -5,18 +5,11 @@ LinkedIn: linkedin.com/in/aminulsujon | GitHub: github.com/aminulsujon
 
 ================================================================================
 
-PROFESSIONAL SUMMARY
---------------------
-Analytical, results-driven Business Intelligence & Data Analytics Specialist with over 12 years of enterprise experience bridging Data Analytics, MIS Reporting, Business Analysis, and Software Engineering. Skilled in querying, modeling, and visualizing complex business, financial, and operational datasets using Microsoft Power BI, Tableau, Advanced Excel (PivotTables, Power Query, VBA/Macros), SQL, Python, and R. Proven track record establishing data governance frameworks, upholding information security and confidentiality, creating C-suite KPI dashboards, and translating complex data findings into actionable strategic recommendations. Certified in Big Data & Data Analysis (BITM) and a Certified Scrum Master (CSM) with a strong STEM background (M.Sc. & B.Sc. in Applied Physics).
+Proven ability to work closely with C-suite executives, business leaders, software engineering teams, and cross-functional stakeholders to define technical requirements, architect and deliver technology solutions, establish data-driven strategies, improve operational efficiency, and align technology initiatives with organizational objectives. Strong software engineering capability spanning application development, database design, SQL, MySQL, Python, Javascript, PHP, NodeJS, system analysis, API/data integration concepts, automation, debugging, performance optimization, technical documentation, and end-to-end solution development. Experienced in translating complex business requirements into scalable technical solutions and collaborating across the full software development lifecycle, from requirements analysis and system design through development, testing, deployment, optimization, and ongoing improvement.
 
-CORE COMPETENCIES & TECHNICAL SKILLS
-------------------------------------
-- Business Intelligence & Data Visualization: Microsoft Power BI, Tableau, Advanced Excel (PivotTables, Power Query, Advanced Formulas, Dynamic Charts, VBA/Macros)
-- Database Management & SQL: SQL (PostgreSQL, MySQL, Oracle, MongoDB), Data Modeling, ETL Pipelines, Indexing & Query Tuning
-- Quantitative & Data Analytics: Python (Pandas, NumPy), R, Exploratory Data Analysis (EDA), Statistical Analysis, Financial Data Analytics
-- Business Analysis & MIS: Requirements Gathering & Analysis, MIS Reporting, Business Process Mapping, User Stories, System Specifications
-- Data Governance & Security: Data Quality Management, Information Security Standards, Confidentiality & Data Privacy Compliance
-- Project Management & Agile: Agile/Scrum Methodologies, Sprint Planning, Executive Stakeholder Reporting, Jira, ClickUp
+Experienced in Agile/Scrum environments, requirements engineering, software development lifecycle (SDLC), technical documentation, system specifications, stakeholder management, solution design, and technology delivery, with the ability to bridge the gap between business strategy, software engineering, data platforms, and analytics.
+
+Certified in Big Data & Data Analysis (BITM) and Certified ScrumMaster (CSM), with a strong STEM foundation through M.Sc. and B.Sc. degrees in Applied Physics. Brings a combination of strong software engineering capability, data and analytics expertise, technical problem-solving, business understanding, and technology leadership, positioning him to contribute effectively to Technology Strategy, Software Engineering, Data Platforms, Business Intelligence, Digital Transformation, and enterprise technology initiatives.
 
 PROFESSIONAL EXPERIENCE
 -----------------------
